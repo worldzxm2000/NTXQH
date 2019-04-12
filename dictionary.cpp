@@ -118,25 +118,25 @@ Dictionary::Dictionary()
 
 
 	//第五层气温
-	map.insert("aaa3", "AT_AT4");
+	map.insert("aaa4", "AT_AT4");
 	//第五层气温最大值
-	map.insert("aaa3a", "AT_MaxAT4");
+	map.insert("aaa4a", "AT_MaxAT4");
 	//第五层气温最大值出现时间
-	map.insert("aaa3b", "AT_MaxAT4T");
+	map.insert("aaa4b", "AT_MaxAT4T");
 	//第五层气温最小值
-	map.insert("aaa3c", "AT_MinAT4");
+	map.insert("aaa4c", "AT_MinAT4");
 	//第五层气温最小值出现时间
-	map.insert("aaa3d", "AT_MinAT4T");
+	map.insert("aaa4d", "AT_MinAT4T");
 	//第五层湿度
-	map.insert("ada3", "AH_RH4");
+	map.insert("ada4", "AH_RH4");
 	//第五层湿度最小值
-	map.insert("ada3c", "AH_MinRH4");
+	map.insert("ada4c", "AH_MinRH4");
 	//第五层湿度最小值出现时间
-	map.insert("ada3d", "AH_MinRH4T");
+	map.insert("ada4d", "AH_MinRH4T");
 	//第五层水汽压
-	map.insert("adc3", "AH_WVP4");
+	map.insert("adc4", "AH_WVP4");
 	//第五层露点温度
-	map.insert("adb3", "AH_DPT4");
+	map.insert("adb4", "AH_DPT4");
 
     //第一层地温
     map.insert("ab5","ST_ST1");
@@ -230,9 +230,9 @@ Dictionary::Dictionary()
     map.insert("aba","OT_GT");
 
 	//水分1
-	map.insert("arb10","SoilVolume10");
+	map.insert("arb10", "SoilVolume10");
 	//频率1
-	map.insert("arg10","SoilFrequency10");
+	map.insert("arg10", "SoilFrequency10");
 	//水分2
 	map.insert("arb20", "SoilVolume20");
 	//频率2
