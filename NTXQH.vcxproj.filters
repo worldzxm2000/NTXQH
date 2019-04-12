@@ -78,6 +78,6 @@
     </QtUic>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="版本说明txt.txt" />
+    <Text Include="版本说明.txt" />
   </ItemGroup>
 </Project>
